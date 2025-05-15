@@ -1,1 +1,1 @@
-# policejob
+Please follow the instructions: https://docs.brutalscripts.com
